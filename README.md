@@ -3,6 +3,6 @@
 
 ## Участники
 
-– @jtprogru
-- @Windemiatrix
-- @etoosamoe
+- [@jtprogru](https://github.com/jtprogru)
+- [@Windemiatrix](https://github.com/Windemiatrix)
+- [@etoosamoe](https://github.com/etoosamoe)
