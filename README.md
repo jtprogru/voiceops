@@ -22,6 +22,9 @@
 - [Мишка на сервере](https://t.me/jtprogru_channel)
 - [этогик](https://t.me/etogeek)
 
+Полезные ссылки для спикеров:
+- [Подкаст-меморандум от Umputun](https://p.umputun.com/2021/10/13/podkast-miemorandum-2021-edition/);
+
 ## Q&A
 
 ### Как предложить тему?
