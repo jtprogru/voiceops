@@ -4,6 +4,8 @@
 
 Ссылка на проект, в рамках которого происходит вся магия тут – [VoiceOps Project](https://github.com/users/jtprogru/projects/5).
 
+Ссылка на подкаст: [jtprogru.mave.digital](https://jtprogru.mave.digital)
+
 ## Спикеры
 
 - [@jtprogru](https://github.com/jtprogru)
