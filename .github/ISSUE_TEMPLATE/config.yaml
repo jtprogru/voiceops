@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Telegram чат
+    url: https://ttttt.me/jtprogru_chat
+    about: Заходи и общайся
+  - name: Анонсы и полезности
+    url: https://ttttt.me/jtprogru_channel
+    about: Основное место где взять полезности
+  - name: Предложить тему
+    url: https://github.com/jtprogru/voiceops/issues
+    about: Создай новый issues с темой
