@@ -2,13 +2,11 @@
 
 Различные темы, которые мы так или иначе обсуждаем в нашем скромном кругу.
 
-Ссылка на проект, в рамках которого происходит вся магия тут – [VoiceOps Project](https://github.com/users/jtprogru/projects/5).
-
 Ссылка на подкаст: [jtprogru.mave.digital](https://jtprogru.mave.digital)
 
 ## Спикеры
 
-- [@jtprogru](https://twitter.com/jtprogru)
+- [@jtprogru](https://t.me/jtprogru_channel)
 - [@Windemiatrix](https://twitter.com/Windemiatrix)
 - [@etosamoe3](https://twitter.com/etosamoe3)
 
@@ -35,11 +33,11 @@
 
 ### Когда?
 
-Раз в две недели по средам в 18:00 по Москве.
+В среднем каждую вторую среду в 18:30 по Москве. Но если можем спокойно и перенести дату или пропустить – делаем так, как нам удобно.
 
 ### Где анонсируется?
 
-Анонс публикуется в Telegram-канале [Мишка на сервере](https://ttttt.me/jtprogru_channel) минимум за пару дней.
+Анонс публикуется в Telegram-канале [Мишка на сервере](https://ttttt.me/jtprogru_channel) за 1-2 дня до эфира.
 
 ### Где послушать?
 
